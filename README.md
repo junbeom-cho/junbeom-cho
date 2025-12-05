@@ -31,7 +31,7 @@
   <h3>📈 GitHub Stats</h3>
 
   <div>
-  [![Anurag's GitHub stats](https://github-readme-stats-junbeom-cho.vercel.app/api?username=junbeom-cho)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](github-readme-stats-phi-nine-89.vercel.app/api?username=junbeom-cho)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
   <br/>
