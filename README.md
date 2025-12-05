@@ -19,8 +19,6 @@
 
   <div>
     <img src="https://github-readme-stats-phi-nine-89.vercel.app/api?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" height="150" alt="stats graph" />
-    
-    <img src="https://github-readme-stats-phi-nine-89.vercel.app/api/top-langs/?username=junbeom-cho&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" height="150" alt="languages graph" />
   </div>
 
   <br/>
