@@ -31,9 +31,7 @@
   <h3>📈 GitHub Stats</h3>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" height="150" alt="stats graph" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junbeom-cho&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" height="150" alt="languages graph" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junbeom-cho)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
   <br/>
