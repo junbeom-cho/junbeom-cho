@@ -16,7 +16,8 @@
   
  <h4>Languages</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,py,r,js,html,css,bash"/>
+    <img src="https://skillicons.dev/icons?i=java,py,r"/>
+    <img src="https://skillicons.dev/icons?i=html,js,css,bash"/>
   </p>
   
   <h4>Frameworks & Libraries</h4>
