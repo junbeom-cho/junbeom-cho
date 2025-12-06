@@ -17,6 +17,7 @@
  <h4>Languages</h4>
   <p>
     <img src="https://skillicons.dev/icons?i=java,py,r"/>
+    <br/>
     <img src="https://skillicons.dev/icons?i=html,js,css,bash"/>
   </p>
   
