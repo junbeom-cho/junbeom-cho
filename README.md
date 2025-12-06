@@ -18,7 +18,7 @@
   <h3>📈 GitHub Stats</h3>
 
   <div>
-    <img src="https://github-readme-stats-junbeom-cho.vercel.app/top-langs/api?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats-junbeom-cho.vercel.app/api/top-langs/?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" height="150" alt="stats graph" />
   </div>
 
   <br/>
