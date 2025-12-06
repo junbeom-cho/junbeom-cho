@@ -1,7 +1,7 @@
 
 
 <div align="center">
-[![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=dracular&reversal=false&textBg=false)]
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=dracular&reversal=false&textBg=false"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech)](https://git.io/typing-svg)
   
