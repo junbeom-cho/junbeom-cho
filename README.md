@@ -13,10 +13,34 @@
   <br/><br/>
 
   <h3>📚 Tech Stack</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
-  </div>
+  <hr/>
+  <br/>
+  
+  <h4>Language</h4>
+  <hr/>
+  <img src="https://skillicons.dev/icons?i=bash,css,html,java,js,py,r"/>
+  
+  <br/>
+  <br/>
 
+  <h4>Library</h4>
+  <hr/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,elasticsearch,spring,sklearn"/>
+
+  <br/>
+  <br/>
+
+  <h4>Tools</h4>
+  <hr/>
+  <img src="https://skillicons.dev/icons?i=discord,docker,eclipse,figma,git,github,gitlab,gmail,idea,instagram,notion,obsidian,postman,pycharm,sublime,vercel,vscode"/>
+
+  <br/>
+  <br/>
+
+  <h4>OS</h4>
+  <hr/>
+  <img src="https://skillicons.dev/icons?i=apple,windows"/>
+  
   <br/><br/>
 
   <h3>📈 GitHub Stats</h3>
