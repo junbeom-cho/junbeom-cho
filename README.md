@@ -25,7 +25,7 @@
   <br/>
 
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junbeom-cho&theme=dracula&hide_border=true&background=282a36" alt="streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junbeom-cho&theme=dracula&hide_border=true&background=282a36&locale=kr" alt="streak stats" />
   </div>
 
 </div>
