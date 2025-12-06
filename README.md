@@ -13,8 +13,6 @@
   <br/><br/>
 
   <h3>📚 Tech Stack</h3>
-  <hr/>
-  <br/>
   
   <h4>Language</h4>
   <hr/>
