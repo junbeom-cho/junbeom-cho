@@ -3,7 +3,7 @@
 <div align="center">
 
 <div name="header">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&theme=onedark&reversal=false&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&theme=dracula&reversal=false&textBg=false"/>
 </div>
 
 <div name="Title">
