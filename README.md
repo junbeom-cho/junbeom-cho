@@ -7,7 +7,7 @@
 </div>
 
 <div name="Title">
-  <img src="https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&duration=3000&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech"/>
 </div>
 
   <br/><br/>
