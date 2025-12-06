@@ -1,10 +1,15 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=dracular&reversal=false&textBg=false"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech)](https://git.io/typing-svg)
-  
+<div name="header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=dracular&reversal=false&textBg=false"/>
+</div>
+
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech"/>
+</div>
+
   <br/><br/>
 
   <h3>📚 Tech Stack</h3>
