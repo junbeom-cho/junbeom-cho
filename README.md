@@ -1,10 +1,15 @@
 
 
-<div align="center">
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/junbeom-cho/junbeom-cho/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junbeom-cho/junbeom-cho/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/junbeom-cho/junbeom-cho/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
-<div name="header">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&theme=cobalt&reversal=false&textBg=false"/>
-</div>
+
+<div align="center">
 
 <div name="Title">
   <img src="https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&duration=3000&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech"/>
@@ -64,12 +69,3 @@
   <br/><br/>
 
 </div>
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/junbeom-cho/junbeom-cho/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junbeom-cho/junbeom-cho/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/junbeom-cho/junbeom-cho/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
