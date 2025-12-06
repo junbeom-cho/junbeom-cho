@@ -16,7 +16,8 @@
   
   <h4>Language</h4>
   <hr/>
-  <img src="https://skillicons.dev/icons?i=bash,css,html,java,js,py,r"/>
+  <img src="https://skillicons.dev/icons?i=java,py,r"/>
+  <img src="https://skillicons.dev/icons?i=html,js,css,bash"/>
   
   <br/>
   <br/>
