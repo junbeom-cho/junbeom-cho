@@ -14,32 +14,35 @@
 
   <h3>📚 Tech Stack</h3>
   
-  <h4>Language</h4>
-  <hr/>
-  <img src="https://skillicons.dev/icons?i=java,py,r"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,js,css,bash"/>
+ <h4>Languages</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,py,r,js,html,css,bash"/>
+  </p>
   
-  <br/>
-  <br/>
+  <h4>Frameworks & Libraries</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=spring,bootstrap,sklearn"/>
+  </p>
 
-  <h4>Library</h4>
-  <hr/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,elasticsearch,spring,sklearn"/>
+  <h4>Infrastructure & Database</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,vercel,elasticsearch"/>
+  </p>
 
-  <br/>
-  <br/>
-
-  <h4>Tools</h4>
-  <hr/>
-  <img src="https://skillicons.dev/icons?i=discord,docker,eclipse,figma,git,github,gitlab,gmail,idea,instagram,notion,obsidian,postman,pycharm,sublime,vercel,vscode"/>
-
-  <br/>
-  <br/>
+  <h4>IDEs & Editors</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,eclipse,vscode,sublime"/>
+  </p>
+  
+  <h4>Tools & Collaboration</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,notion,obsidian,discord"/>
+  </p>
 
   <h4>OS</h4>
-  <hr/>
-  <img src="https://skillicons.dev/icons?i=apple,windows"/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=apple,windows"/>
+  </p>
   
   <br/><br/>
 
