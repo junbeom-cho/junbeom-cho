@@ -72,3 +72,5 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
 	</picture>
 </p>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
