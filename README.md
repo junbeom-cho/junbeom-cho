@@ -32,7 +32,7 @@
 
   <h4>Tools</h4>
   <hr/>
-  <img src="https://skillicons.dev/icons?i=discord,docker,eclipse,figma,git,github,gitlab,gmail,idea,instagram,notion,obsidian,postman,pycharm,sublime,vercel,vscode"/>
+  <img src="https://skillicons.dev/icons?i=discord,docker,eclipse,figma,git,github,gitlab,gmail,idea,instagram,notion,obsidian,postman,pycharm,sublime,vercel,vscode,datagrip"/>
 
   <br/>
   <br/>
