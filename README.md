@@ -54,6 +54,7 @@
   <h4>Tools & Collaboration</h4>
   <p>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
+	<br/>
 	<img src="https://skillicons.dev/icons?i=postman,figma,notion,obsidian,discord"/>
   </p>
 
