@@ -22,7 +22,7 @@
   <br/>
 
   <div>
-    <img src="https://http://github-readme-streak-stats-theta-puce.vercel.app//?user=junbeom-cho&theme=dracula&hide_border=true&background=282a36&locale=ko" alt="streak stats" />
+    <img src="https://http://github-readme-streak-stats-theta-puce.vercel.app?user=junbeom-cho&theme=dracula&hide_border=true&background=282a36&locale=ko" alt="streak stats" />
   </div>
 
   <br/><br/>
