@@ -15,14 +15,14 @@
   <h3>📈 GitHub Stats</h3>
 
   <div>
-    <img src="https://github-readme-stats-junbeom-cho.vercel.app/api?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&locale=kr&hide=stars,issues,contribs"/>
-    <img src="https://github-readme-stats-junbeom-cho.vercel.app/api/top-langs/?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&layout=compact&locale=kr" height="150"/>
+    <img src="https://github-readme-stats-chi-one-58.vercel.app/api?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&locale=kr&hide=stars,issues,contribs"/>
+    <img src="https://github-readme-stats-chi-one-58.vercel.app/api/top-langs/?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&layout=compact&locale=kr" height="150"/>
   </div>
 
   <br/>
 
   <div>
-    <img src="https://streak-stats.demolab.com/?user=junbeom-cho&theme=dracula&hide_border=true&background=282a36&locale=ko" alt="streak stats" />
+    <img src="https://http://github-readme-streak-stats-theta-puce.vercel.app//?user=junbeom-cho&theme=dracula&hide_border=true&background=282a36&locale=ko" alt="streak stats" />
   </div>
 
   <br/><br/>
