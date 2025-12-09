@@ -22,7 +22,7 @@
   <br/>
 
   <div>
-    <img src="https://github-readme-streak-stats-junbeom-cho.vercel.app/?user=junbeom-cho&theme=dracula&hide_border=true&background=282a36&locale=ko" alt="streak stats" />
+    <img src="https://streak-stats.demolab.com/?user=junbeom-cho&theme=dracula&hide_border=true&background=282a36&locale=ko" alt="streak stats" />
   </div>
 
   <br/><br/>
