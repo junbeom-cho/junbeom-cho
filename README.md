@@ -22,7 +22,7 @@
   <br/>
 
   <div>
-	  <img src="https://github-readme-streak-stats.vercel.app/?user=junbeom-cho&theme=dracula&locale=ko&hide_total_contributions=true" alt="GitHub Streak" /></a>
+	  <img src="https://git-hub-streak-stats.vercel.app/?user=junbeom-cho&theme=dracula&locale=ko&hide_total_contributions=true" alt="GitHub Streak" /></a>
   </div>
 
   <br/><br/>
