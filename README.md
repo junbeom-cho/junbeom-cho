@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<div name="header">
+<div name="head">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&theme=cobalt&reversal=false&textBg=false"/>
 </div>
 
