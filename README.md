@@ -2,9 +2,13 @@
 
 <div align="center">
 
-<div name="head">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&theme=cobalt&reversal=false&textBg=false"/>
-</div>
+<p align="center" >
+   <picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/junbeom-cho/junbeom-cho/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/junbeom-cho/junbeom-cho/blob/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
 
 <div name="Title">
   <img src="https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&duration=3000&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech"/>
@@ -67,10 +71,3 @@
 
 </div>
 
-<p align="center" >
-   <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/junbeom-cho/junbeom-cho/blob/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github.com/junbeom-cho/junbeom-cho/blob/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
