@@ -66,8 +66,6 @@
   <p>
     <img src="https://skillicons.dev/icons?i=apple,windows"/>
   </p>
-  
-  <br/><br/>
 
 </div>
 
