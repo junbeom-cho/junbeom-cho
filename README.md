@@ -25,10 +25,6 @@
 
   <br/>
 
-  <div>
-	  <img src="https://git-hub-streak-stats.vercel.app/?user=junbeom-cho&theme=dracula&locale=ko&hide_total_contributions=true" alt="GitHub Streak" /></a>
-  </div>
-
   <br/><br/>
 
   <h3>📚 Tech Stack</h3>
