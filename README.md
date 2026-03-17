@@ -14,7 +14,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&duration=3000&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech"/>
 </div>
 
-  <br/><br/>
+  <div name="Blog">
+    <h3> <a href="https://obsidian.junbeom.work"> My Blog </h3>
+  </div>
+
+  <br/>
 
   <h3>📈 GitHub Stats</h3>
 
