@@ -10,9 +10,17 @@
 </picture>
 </p>
 
-<div name="Title">
-  <img src="https://readme-typing-svg.herokuapp.com?font=D2coding&size=25&pause=1000&center=true&duration=3000&vCenter=true&width=435&lines=Hello%2C+I'm+Junbeom+Cho.;Always+learning+new+tech"/>
-</div>
+
+  <p>
+    <a href="https://wiki.techbara.dev"><img alt="Techbara Wiki" src="https://img.shields.io/badge/Techbara_Wiki-wiki.techbara.dev-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
+    <br/>
+    <a href="https://wiki.techbara.dev"><img alt="Techbara Wiki 노트 수" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fwiki.techbara.dev%2Fsitemap.xml&query=count%28%2F%2F%2A%5Blocal-name%28%29%3D%27loc%27%5D%5Bnot%28contains%28.%2C%27%2Ftags%2F%27%29%29%5D%5Bsubstring%28.%2Cstring-length%28.%29%29%21%3D%27%2F%27%5D%29&label=Techbara+Wiki&suffix=+notes&logo=obsidian&color=7C3AED&style=flat-square"/></a>
+    <a href="https://github.com/junbeom-cho/docker-compose-example"><img alt="compose 스택 수" src="https://img.shields.io/github/directory-file-count/junbeom-cho/docker-compose-example?type=dir&label=compose%20stacks&style=flat-square&logo=docker"/></a>
+  </p>
+
+  <p>
+    <img alt="neofetch --github junbeom-cho" src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=junbeom-cho&theme=ubuntu&color=1" width="560"/>
+  </p>
 
   <br/>
 
@@ -21,6 +29,7 @@
   <div>
     <img src="https://github-readme-stats-cho.vercel.app/api?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&locale=kr&hide=stars,issues,contribs"/>
     <img src="https://github-readme-stats-cho.vercel.app/api/top-langs/?username=junbeom-cho&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&layout=compact&locale=kr" height="150"/>
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=junbeom-cho&theme=dracula&locale=ko&hide_border=true&background=282a36&hide_total_contributions=true" height="150"/>
   </div>
 
   <br/>
