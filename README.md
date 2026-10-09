@@ -37,40 +37,55 @@
   <br/><br/>
 
   <h3>📚 Tech Stack</h3>
-  
- <h4>Languages</h4>
+
   <p>
-    <img src="https://skillicons.dev/icons?i=java,py,r"/>
+    <img alt="Java, Spring, TypeScript, React, Docker, Kubernetes, Linux, Nginx, PostgreSQL, Grafana" src="https://skillicons.dev/icons?i=java,spring,ts,react,docker,kubernetes,linux,nginx,postgres,grafana"/>
+  </p>
+
+  <details>
+  <summary>전체 기술 보기</summary>
+
+  <h4>Languages</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,py,r,bash,powershell"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,js,css,bash"/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts"/>
   </p>
   
   <h4>Frameworks & Libraries</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=spring,bootstrap,sklearn"/>
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,sklearn"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap"/>
   </p>
 
   <h4>Infrastructure & Database</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,vercel,elasticsearch"/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,cloudflare,vercel,prometheus,grafana"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,elasticsearch"/>
   </p>
 
   <h4>IDEs & Editors</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=idea,pycharm,eclipse,vscode,sublime"/>
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,eclipse,vscode,sublime,vim"/>
   </p>
   
   <h4>Tools & Collaboration</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
-	<br/>
-	<img src="https://skillicons.dev/icons?i=postman,figma,notion,obsidian,discord"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,postman"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=maven,gradle,npm,pnpm,vite"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=figma,notion,obsidian,discord"/>
   </p>
 
   <h4>OS</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=apple,windows"/>
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu"/>
   </p>
+
+  </details>
 
 </div>
 
